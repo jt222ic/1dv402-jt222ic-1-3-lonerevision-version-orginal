@@ -4,3 +4,9 @@ c:\users\janis bananis\documents\visual studio 2013\Projects\1dv405-jt222ic-1.3-
 c:\users\janis bananis\documents\visual studio 2013\Projects\1dv405-jt222ic-1.3-lonerevision\1dv405-jt222ic-1.3-lonerevision\obj\Debug\1dv405-jt222ic-1.3-lonerevision.csprojResolveAssemblyReference.cache
 c:\users\janis bananis\documents\visual studio 2013\Projects\1dv405-jt222ic-1.3-lonerevision\1dv405-jt222ic-1.3-lonerevision\obj\Debug\1dv405-jt222ic-1.3-lonerevision.exe
 c:\users\janis bananis\documents\visual studio 2013\Projects\1dv405-jt222ic-1.3-lonerevision\1dv405-jt222ic-1.3-lonerevision\obj\Debug\1dv405-jt222ic-1.3-lonerevision.pdb
+C:\Users\Janis bananis\Desktop\1dv405-jt222ic-1.3-lonerevision\1dv405-jt222ic-1.3-lonerevision\bin\Debug\1dv405-jt222ic-1.3-lonerevision.exe.config
+C:\Users\Janis bananis\Desktop\1dv405-jt222ic-1.3-lonerevision\1dv405-jt222ic-1.3-lonerevision\obj\Debug\1dv405-jt222ic-1.3-lonerevision.exe
+C:\Users\Janis bananis\Desktop\1dv405-jt222ic-1.3-lonerevision\1dv405-jt222ic-1.3-lonerevision\obj\Debug\1dv405-jt222ic-1.3-lonerevision.pdb
+C:\Users\Janis bananis\Desktop\1dv405-jt222ic-1.3-lonerevision\1dv405-jt222ic-1.3-lonerevision\obj\Debug\1dv405-jt222ic-1.3-lonerevision.csprojResolveAssemblyReference.cache
+C:\Users\Janis bananis\Desktop\1dv405-jt222ic-1.3-lonerevision\1dv405-jt222ic-1.3-lonerevision\bin\Debug\1dv405-jt222ic-1.3-lonerevision.exe
+C:\Users\Janis bananis\Desktop\1dv405-jt222ic-1.3-lonerevision\1dv405-jt222ic-1.3-lonerevision\bin\Debug\1dv405-jt222ic-1.3-lonerevision.pdb
